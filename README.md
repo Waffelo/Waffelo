@@ -4,4 +4,5 @@ I am a 16 years old GNU/Linux & Tech enthusiast, I like to learn new stuff and i
  - 🐍 Learning Python & Rust
  - 🐧 GNU/Linux enthusiast
  - 🔐 Interested in Security and Privacy
+ - 📣 Speaking Slovak, Czech and English
   
