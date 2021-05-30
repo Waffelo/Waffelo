@@ -14,6 +14,13 @@ I am a 16 years old GNU/Linux & Tech enthusiast, I like to learn new stuff and i
  - 📣 Speaking Slovak, Czech and English
  - 🎒 Studying CNC Programming
 
+### Goals:
+I don't have many goals related to development set yet, this will likely change in the future. I have few projects in my head that I would love to work on and make them real. I am looking forward to the future.
+
+- 💻 Learn Python and C
+
+
+
 My projects 🍩
 ---
 I like to do fun projects, even if I haven't done much yet, I am having fun and im learning.
