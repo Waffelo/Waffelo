@@ -13,5 +13,12 @@ I am a 16 years old GNU/Linux & Tech enthusiast, I like to learn new stuff and i
  - 🔐 Interested in Security and Privacy
  - 📣 Speaking Slovak, Czech and English
  - 🎒 Studying CNC Programming
+
+My projects 🍩
+---
+I like to do fun projects, even if I haven't done much yet, I am having fun and im learning.
+ 
+ #### Working on:
+ - 🤖 Yomama Discord bot 
   
   
