@@ -6,7 +6,7 @@ About me 🥞
 [![Youtube](https://img.shields.io/badge/Youtube-black?style=flat&logo=youtube&logoColor=red&link=https://www.youtube.com/channel/UCloxoVnDUgYO5-bETkhaIiw)](https://www.youtube.com/c/waffelo)
 [![Discord](https://img.shields.io/badge/Discord-black?style=flat&logo=discord&logoColor=dark&link=https://discord.bio/p/rare)](https://discord.gg/x9hSbwM) 
 
-I am a 16 years old GNU/Linux & Tech enthusiast, I like to learn new stuff and im interested in security, privacy and programming. I speak three languages, they are Slovak, Czech and English, Im currentely learning Spanish. I want to learn to code in Python, I would love to make some programs for Linux in the future. 
+I am a 16 years old GNU/Linux & Tech enthusiast, I like to learn new stuff and im interested in security, privacy and programming. I speak three languages, they are Slovak, Czech and English, Im currentely learning Spanish.  
  
  - 🐍 Learning Python 
  - 🐧 GNU/Linux enthusiast
