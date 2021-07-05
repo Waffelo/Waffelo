@@ -18,7 +18,7 @@ I am a 16 years old GNU/Linux & Tech enthusiast, I like to learn new stuff and i
 I don't have many goals related to development set yet, this will likely change in the future. I have few projects in my head that I would love to work on and make them real. I am looking forward to the future.
 
 - 💻 Learn Python, Rust and C++
-
+- 
 
 
 My projects 🍩
