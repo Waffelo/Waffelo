@@ -8,7 +8,7 @@ About me 🥞
 
 I am a 16 years old GNU/Linux & Tech enthusiast, I like to learn new stuff and im interested in security, privacy and programming. I speak three languages, they are Slovak, Czech and English, Im currentely learning Spanish. If you are interested, here are my [dotfiles](https://github.com/Waffelo/dotfiles/blob/main/README.md).
  
- - 🐍 Learning Python 
+ - 🐍 Learning Python & JS
  - 🐧 GNU/Linux enthusiast
  - 🔐 Interested in Security and Privacy
  - 📣 Speaking Slovak, Czech and English
@@ -17,15 +17,13 @@ I am a 16 years old GNU/Linux & Tech enthusiast, I like to learn new stuff and i
 ### Goals:
 I don't have many goals related to development set yet, this will likely change in the future. I have few projects in my head that I would love to work on and make them real. I am looking forward to the future.
 
-- 💻 Learn Python, Rust and C++
-- 
+- 💻 Learn Python and JS
+- 🤖 Make CLI programs
+- 🌐 Code my website
 
 
 My projects 🍩
 ---
 I like to do fun projects, even if I haven't done much yet, I am having fun and im learning.
  
- #### Working on:
- - 🤖 Yomama Discord bot 
-  
-  
+
