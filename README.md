@@ -26,4 +26,4 @@ My projects 🍩
 ---
 I like to do fun projects, even if I haven't done much yet, I am having fun and im learning.
  
-
+<a href="https://discord.gg/EYhcsUNhAa"><img src="https://discord.c99.nl/widget/theme-1/685947706916864050.png"/></a>
