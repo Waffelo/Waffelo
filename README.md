@@ -18,12 +18,14 @@ I am a 16 years old GNU/Linux & Tech enthusiast, I like to learn new stuff and i
 I don't have many goals related to development set yet, this will likely change in the future. I have few projects in my head that I would love to work on and make them real. I am looking forward to the future.
 
 - 💻 Learn Python and JS
-- 🤖 Make CLI programs
-- 🌐 Code my website
+- 💾 Make CLI programs
+- 🤖 Code Discord Bots
 
 
 My projects 🍩
 ---
 I like to do fun projects, even if I haven't done much yet, I am having fun and im learning.
+
+- <a href="https://waffelo.net"> **waffelo.net**</a> - My personal website
  
 <a href="https://discord.gg/EYhcsUNhAa"><img src="https://discord.c99.nl/widget/theme-1/685947706916864050.png"/></a>
