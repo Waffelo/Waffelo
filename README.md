@@ -1,30 +1,24 @@
-About me 🥞
----
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=Twitter&logoColor=blue&link=https://twitter.com/rares_dev)](https://twitter.com/Waffelo_)
-[![Reddit](https://img.shields.io/badge/Reddit-black?style=flat&logo=reddit&logoColor=red&target=_blank&link=https://www.reddit.com/user/Rieswen)](https://www.reddit.com/user/Waffelo_)
-[![Twitch](https://img.shields.io/badge/Twitch-black?style=flat&logo=twitch&logoColor=purple&link=https://www.twitch.tv/rieswen)](https://www.twitch.tv/waffelo)
-[![Youtube](https://img.shields.io/badge/Youtube-black?style=flat&logo=youtube&logoColor=red&link=https://www.youtube.com/channel/UCloxoVnDUgYO5-bETkhaIiw)](https://www.youtube.com/c/waffelo)
-[![Discord](https://img.shields.io/badge/Discord-black?style=flat&logo=discord&logoColor=dark&link=https://discord.bio/p/rare)](https://discord.gg/x9hSbwM) 
+<div align='center'>
+  <h1> > Waffelo <</h1>
+  <img alt='Pronouns' src='https://img.shields.io/endpoint?url=https://pronoundb.org/shields/6241e920d4285378cf0b4455' /> <a href="https://wakatime.com/@29725049-7048-4ebb-8064-21f95716ce5a"><img src="https://wakatime.com/badge/user/29725049-7048-4ebb-8064-21f95716ce5a.svg" alt="Total time coded since Mar 28 2022" /></a> 
 
-I am a 17 years old GNU/Linux & Tech enthusiast, I like to learn new stuff and im interested in security, privacy and programming. I speak three languages, they are Slovak, Czech and English, Im currentely learning Spanish. If you are interested, here are my [dotfiles](https://github.com/Waffelo/Dotfiles/).
+   <blockquote><i>I am a 17 years old beginner programmer. 🧇 🐾 </i></div></blockquote>
+  <br/>
+
+<div align='center'>
+   <b>I know:</b><br/>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=latex,linux,vim" />
+   </a>
+  </div>
+  
+ <br/>
+ <div align='center'>
+   <b>Currently learning:</b><br/>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,python,js,cpp" />
+   </a>
+  </div>
+  
  
- - 🐍 Learning Python & Rust
- - 🐧 GNU/Linux enthusiast
- - 🔐 Interested in Security and Privacy
- - 📣 Speaking Slovak, Czech and English
- - 🎒 Studying CNC Programming
-
-### Goals:
-I don't have many goals related to development set yet, this will likely change in the future. I have few projects in my head that I would love to work on and make them real. I am looking forward to the future.
-
-- 💻 Learn Python and Rust
-- 💾 Make CLI programs
-
-
-My projects 🍩
----
-I like to do fun projects, even if I haven't done much yet, I am having fun and im learning.
-
-- <a href="https://waffelo.net"> **waffelo.net**</a> - My personal website
- 
-<a href="https://discord.gg/EYhcsUNhAa"><img src="https://discord.c99.nl/widget/theme-1/685947706916864050.png"/></a>
+  
