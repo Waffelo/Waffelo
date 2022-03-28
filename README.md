@@ -9,7 +9,7 @@
 <div align='center'>
    <b>I know:</b><br/>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=latex,linux,vim,git" />
+    <img src="https://skillicons.dev/icons?i=md,latex,linux,vim,git" />
    </a>
   </div>
   
@@ -17,9 +17,10 @@
  <div align='center'>
    <b>Currently learning:</b><br/>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,python,js,cpp" />
+    <img src="https://skillicons.dev/icons?i=arduino,python,js,cpp,blender,godot,bots" />
    </a>
   </div>
+  
   
  
   
