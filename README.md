@@ -8,7 +8,7 @@
 <div align='center'>
    <b>I know:</b><br/>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=latex,linux,vim" />
+    <img src="https://skillicons.dev/icons?i=latex,linux,vim,git" />
    </a>
   </div>
   
