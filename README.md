@@ -5,7 +5,21 @@
 
    <blockquote><i>I am a 17 years old beginner programmer. 🧇 🐾 </i></div></blockquote>
   <br/>
-
+  <details a>
+    <summary><b>About Me</b></summary>
+   <blockquote> <i>I am a 17 years old technology enthusiast, I am interested in electronical devides, automatization, bots, games, art and free & open-source software. I love to experiment with electronics and learn new stuff.</i></blockquote>
+    
+  </details>
+  <details>
+    <summary><b>Social</b></summary>
+    <blockquote> <i>You can reach out to me trough these links:
+      <ul>
+        <li><a href="https://discord.gg/kakkzsG4CT">Discord</a></li>
+        <li><a href="https://social.linux.pizza/@waffelo">Mastodon</a></li>
+      </ul>
+      </i></blockquote>
+  </details>
+  
 <div align='center'>
    <b>I know:</b><br/>
    <a href="https://skillicons.dev">
