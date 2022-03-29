@@ -11,6 +11,11 @@
   </details>
   
   <details>
+    <summary><b>📂 Projects</b></summary>
+   <blockquote> <i>Nothing interesting here... yet..</i></blockquote>
+  </details>
+  
+  <details>
     <summary><b>💾 My setup</b></summary>
    <blockquote> 
      <i>I have a slightly upgraded Lenovo Legion Y530 laptop.</i>
