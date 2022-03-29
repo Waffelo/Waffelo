@@ -5,11 +5,15 @@
 
    <blockquote><i>I am a 17 years old beginner programmer. 🧇 🐾 </i></div></blockquote>
   <br/>
-  <details a>
+  <details open>
     <summary><b>About Me</b></summary>
    <blockquote> <i>I am a 17 years old technology enthusiast, I am interested in electronical devides, automatization, bots, games, art and free & open-source software. I love to experiment with electronics and learn new stuff.</i></blockquote>
-    
+
+  <details>
+    <summary><b>My setup</b></summary>
+   <blockquote> <i>TODO!</i></blockquote>
   </details>
+    
   <details>
     <summary><b>Social</b></summary>
     <blockquote> <i>You can reach out to me trough these links:
