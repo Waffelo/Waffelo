@@ -6,16 +6,28 @@
    <blockquote><i>I am a 17 years old beginner programmer. 🧇 🐾 </i></div></blockquote>
   <br/>
   <details open>
-    <summary><b>About Me</b></summary>
+    <summary><b>🌸 About Me</b></summary>
    <blockquote> <i>I am a 17 years old technology enthusiast, I am interested in electronical devides, automatization, bots, games, art and free & open-source software. I love to experiment with electronics and learn new stuff.</i></blockquote>
-
+  </details>
+  
   <details>
-    <summary><b>My setup</b></summary>
-   <blockquote> <i>TODO!</i></blockquote>
+    <summary><b>💾 My setup</b></summary>
+   <blockquote> 
+     <i>I have a slightly upgraded Lenovo Legion Y530 laptop.</i>
+     <br></br>
+    <ul>
+      <li><b>CPU - </b><i>Intel i5-8300H (8) @ 4.000GHz</i>
+      <li><b>RAM - </b><i>16GiB DDR4 Dual-channel</i>
+      <li><b>GPU - </b><i>NVIDIA GeForce GTX 1050 Mobile</i>
+      <li><b>SSD - </b><i>Apacer NVME 256GiB</i>
+      <li><b>HDD - </b><i>1TB</i>
+     </ul>
+     
+   </blockquote>
   </details>
     
   <details>
-    <summary><b>Social</b></summary>
+    <summary><b>💭 Social</b></summary>
     <blockquote> <i>You can reach out to me trough these links:
       <ul>
         <li><a href="https:/www.waffelo.net">Website</a></li>
