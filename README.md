@@ -14,7 +14,9 @@
     <summary><b>Social</b></summary>
     <blockquote> <i>You can reach out to me trough these links:
       <ul>
-        <li><a href="https://discord.gg/kakkzsG4CT">Discord</a></li>
+        <li><a href="https:/www.waffelo.net">Website</a></li>
+        <li><a href="https://matrix.to/#/!olFnGkZMAwnDpcxacl:matrix.org?via=matrix.org">Matrix Space</a></li>
+        <li><a href="https://discord.gg/kakkzsG4CT">Discord Server</a></li>
         <li><a href="https://social.linux.pizza/@waffelo">Mastodon</a></li>
       </ul>
       </i></blockquote>
