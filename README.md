@@ -21,11 +21,12 @@
      <i>I have a slightly upgraded Lenovo Legion Y530 laptop.</i>
      <br></br>
     <ul>
-      <li><b>CPU - </b><i>Intel i5-8300H (8) @ 4.000GHz</i>
-      <li><b>RAM - </b><i>16GiB DDR4 Dual-channel</i>
-      <li><b>GPU - </b><i>NVIDIA GeForce GTX 1050 Mobile</i>
-      <li><b>SSD - </b><i>Apacer NVME 256GiB</i>
-      <li><b>HDD - </b><i>1TB</i>
+      <li><b>OS  - </b><i>Arch Linux</i></li>
+      <li><b>CPU - </b><i>Intel i5-8300H (8) @ 4.000GHz</i></li>
+      <li><b>RAM - </b><i>16GiB DDR4 Dual-channel</i></li>
+      <li><b>GPU - </b><i>NVIDIA GeForce GTX 1050 Mobile</i></li>
+      <li><b>SSD - </b><i>Apacer NVME 256GiB</i></li>
+      <li><b>HDD - </b><i>1TB</i></li>
      </ul>
      
    </blockquote>
