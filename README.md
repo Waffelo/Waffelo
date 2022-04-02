@@ -12,13 +12,19 @@
   
   <details>
     <summary><b>📂 Projects</b></summary>
-   <blockquote> <i>Nothing interesting here... yet..</i></blockquote>
+   <blockquote> <i>Nothing interesting here... yet..</i>
+     <br></br>
+   <ul>
+     <li><b><a href="https://github.com/Waffelo/yomama-bot">Yo Mama! Bot -</a></b> Discord yo-mama joke bot. (Abandoned...)</li> 
+    
+    
+   </blockquote>
   </details>
   
   <details>
     <summary><b>💾 My setup</b></summary>
    <blockquote> 
-     <i>I have a slightly upgraded Lenovo Legion Y530 laptop.</i>
+     <i>I have a slightly upgraded Lenovo Legion Y530 laptop. Here are my <a href="https://github.com/Waffelo/dotfiles">.dotfiles</a>!</i>
      <br></br>
     <ul>
       <li><b>OS  - </b><i>Arch Linux</i></li>
