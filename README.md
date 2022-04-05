@@ -61,7 +61,7 @@
  <div align='center'>
    <b>Currently learning:</b><br/>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,python,js,cpp,blender,godot,bots" />
+    <img src="https://skillicons.dev/icons?i=arduino,python,cpp,blender,godot,bots" />
    </a>
   </div>
   
