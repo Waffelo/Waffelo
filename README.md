@@ -10,7 +10,7 @@
    <blockquote> <i>I am a 17 years old technology enthusiast, I am interested in electronical devides, automatization, bots, games, art and free & open-source software. I love to experiment with electronics and learn new stuff.</i></blockquote>
   </details>
   
-  <details>
+  <details open>
     <summary><b>📂 Projects</b></summary>
    <blockquote> <i>Nothing interesting here... yet..</i>
      <br></br>
@@ -21,7 +21,7 @@
    </blockquote>
   </details>
   
-  <details>
+  <details open>
     <summary><b>💾 My setup</b></summary>
    <blockquote> 
      <i>I have a slightly upgraded Lenovo Legion Y530 laptop. Here are my <a href="https://github.com/Waffelo/dotfiles">.dotfiles</a>!</i>
@@ -36,9 +36,9 @@
      </ul>
      
    </blockquote>
-  </details>
+  </details open>
     
-  <details>
+  <details open>
     <summary><b>💭 Social</b></summary>
     <blockquote> <i>You can reach out to me trough these links:
       <ul>
