@@ -44,8 +44,7 @@
       <ul>
         <li><a href="https:/www.waffelo.net">Website</a></li>
         <li><a href="https://matrix.to/#/!olFnGkZMAwnDpcxacl:matrix.org?via=matrix.org">Matrix Space</a></li>
-        <li><a href="https://discord.gg/kakkzsG4CT">Discord Server</a></li>
-        <li><a href="https://social.linux.pizza/@waffelo">Mastodon</a></li>
+        <li><a href="https://stop.voring.me/@waffelo">Fediverse</a></li>
       </ul>
       </i></blockquote>
   </details>
@@ -61,7 +60,15 @@
  <div align='center'>
    <b>Currently learning:</b><br/>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,python,cpp,rust,blender,godot,bots" />
+    <img src="https://skillicons.dev/icons?i=arduino,python,cpp,rust" />
+   </a>
+  </div>
+  
+  <br/>
+ <div align='center'>
+  <b>Interested in:</b><br>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,js,bevy,docker,bsd,blender,godot,bots" />
    </a>
   </div>
   
