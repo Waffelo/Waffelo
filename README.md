@@ -12,7 +12,7 @@
   
   <details open>
     <summary><b>📂 Projects</b></summary>
-   <blockquote> <i>Nothing interesting here... yet..</i>
+   <blockquote> <i>Nothing interesting here... yet.. I mostly delete all my projects.</i>
      <br></br>
    <ul>
      <li><b><a href="https://github.com/Waffelo/yomama-bot">Yo Mama! Bot -</a></b> Discord yo-mama joke bot. (Abandoned...)</li> 
