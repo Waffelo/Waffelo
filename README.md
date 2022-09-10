@@ -14,11 +14,30 @@
     <summary><b>📂 Projects</b></summary>
    <blockquote> <i>Nothing interesting here... yet.. I mostly delete all my projects.</i>
      <br></br>
-   <ul>
-     <li><b><a href="https://github.com/Waffelo/yomama-bot">Yo Mama! Bot -</a></b> Discord yo-mama joke bot. (Abandoned...)</li> 
-    
-    
+  
+ 
+ <table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Status</th>
+  </tr>
+  
+  <tr>
+    <td><a href="https://github.com/Waffelo/waffelo.net">waffelo.net</a></td>
+    <td>My personal website.</td>
+    <td>Active</td>
+  </tr>
+   
+  <tr>
+    <td><a href="https://github.com/Waffelo/yomama-bot">Yo Mama Bot</a></td>
+    <td>Random yo mama joke generator bot for Discord.</td>
+    <td>Abandoned, Broken</td>
+  </tr>
+
+</table> 
    </blockquote>
+  
   </details>
   
   <details open>
