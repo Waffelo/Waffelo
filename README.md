@@ -29,11 +29,19 @@
     <td>Active</td>
   </tr>
    
+   <tr>
+    <td><a href="">waffelo.net beta</a></td>
+    <td>Experimental beta version of my website. (v3)</td>
+    <td>Active development</td>
+   </tr>
+   
   <tr>
     <td><a href="https://github.com/Waffelo/yomama-bot">Yo Mama Bot</a></td>
     <td>Random yo mama joke generator bot for Discord.</td>
     <td>Abandoned, Broken</td>
   </tr>
+  
+
 
 </table> 
    </blockquote>
