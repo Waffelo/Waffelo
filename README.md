@@ -30,7 +30,7 @@
   </tr>
    
    <tr>
-    <td><a href="">waffelo.net beta</a></td>
+    <td><a href="https://github.com/Waffelo/website-beta">waffelo.net beta</a></td>
     <td>Experimental beta version of my website. (v3)</td>
     <td>Active development</td>
    </tr>
