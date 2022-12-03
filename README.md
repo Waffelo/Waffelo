@@ -49,21 +49,37 @@
   </details>
   
   <details open>
-    <summary><b>💾 My setup</b></summary>
+    <summary><b>💻 My computer</b></summary>
    <blockquote> 
-     <i>I have a slightly upgraded Lenovo Legion Y530 laptop. Here are my <a href="https://github.com/Waffelo/dotfiles">.dotfiles</a>!</i>
+     <i>As my main system I use Lenovo ThinkPad x200 which is librebooted.</a>!</i>
      <br></br>
     <ul>
-      <li><b>OS  - </b><i>Arch Linux</i></li>
-      <li><b>CPU - </b><i>Intel i5-8300H (8) @ 4.000GHz</i></li>
-      <li><b>RAM - </b><i>16GiB DDR4 Dual-channel</i></li>
-      <li><b>GPU - </b><i>NVIDIA GeForce GTX 1050 Mobile</i></li>
-      <li><b>SSD - </b><i>Apacer NVME 256GiB</i></li>
-      <li><b>HDD - </b><i>1TB</i></li>
+      <li><b>OS  - </b><i>Parabola Linux</i></li>
+      <li><b>CPU - </b><i>Intel Core 2 Duo P8600 (2) 2.401GHz</i></li>
+      <li><b>RAM - </b><i>4GiB DDR3 Dual-channel</i></li>
+      <li><b>GPU - </b><i>Intel Mobile 4 Series Chipset</i></li>
+      <li><b>HDD - </b><i>1TB + 1TB caddy in dock</i></li>
      </ul>
      
    </blockquote>
   </details open>
+    
+  <details open>
+    <summary><b>💾 My server</b></summary>
+   <blockquote> 
+     <i>I use my gaming laptop Lenovo Legion Y530 as a server.</a>!</i>
+     <br></br>
+    <ul>
+      <li><b>OS  - </b><i>Fedora Linux</i></li>
+      <li><b>CPU - </b><i>Intel i5-8300H (8) @ 4.000GHz</i></li>
+      <li><b>RAM - </b><i>16GiB DDR4 Dual-channel</i></li>
+      <li><b>GPU - </b><i>NVIDIA GeForce GTX 1050 Mobile (4GiB)</i></li>
+      <li><b>SSD - </b><i>Apacer NVME 256GiB</i></li>
+     </ul>
+     
+   </blockquote>
+  </details open>    
+    
     
   <details open>
     <summary><b>💭 Social</b></summary>
