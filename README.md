@@ -1,5 +1,4 @@
 
-# [NOTICE] I have migrated from Github to my own git server on https://git.waffelo.net !!!
 
 
 <div align='center'>
@@ -12,6 +11,7 @@
   <details open>
     <summary><b>🌸 About Me</b></summary>
    <blockquote> <i>I am a 17 years old technology enthusiast from Slovakia, I am interested in electronical devices, automatization, bots, games, art and       free & open-source software. I love to experiment with electronics and learn new stuff.</i></blockquote>
+    <h5>I have my own Git server at <a href="https://git.waffelo.net">git.waffelo.net</a></h5>
   </details>
   
   <details open>
