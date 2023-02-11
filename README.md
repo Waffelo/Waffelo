@@ -33,11 +33,11 @@
     <td>Active</td>
   </tr>
    
-   <tr>
-    <td><a href="https://github.com/Waffelo/website-beta">waffelo.net beta</a></td>
-    <td>Experimental beta version of my website. (v3)</td>
-    <td>Active development</td>
-   </tr>
+  <tr>
+    <td><a href="https://github.com/Waffelo/mt.waffelo.net">Minetest server web</a></td>
+    <td>My minetest server website.</td>
+    <td>Active</td>
+  </tr>
    
   <tr>
     <td><a href="https://github.com/Waffelo/yomama-bot">Yo Mama Bot</a></td>
