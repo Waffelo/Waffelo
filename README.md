@@ -6,11 +6,11 @@
   <a href="https://en.pronouns.page/@waffelo"><img alt='Pronouns' src='https://img.shields.io/badge/Pronouns-He%2FHim-f3c0ff' /></a> <a href="https://wakatime.com/@29725049-7048-4ebb-8064-21f95716ce5a"><img src="https://wakatime.com/badge/user/29725049-7048-4ebb-8064-21f95716ce5a.svg" alt="Total time coded since Mar 28 2022" /></a> <a href="https://liberapay.com/Waffelo/donate" target="blank"><img src="https://shields.io/badge/donate_with-liberapay-F6C915?logo=liberapay" alt="librepay"/></a>
     <br/>
 
-   <blockquote><i>I am a 17 years old beginner programmer. 🧇 🐾 </i></div></blockquote>
+   <blockquote><i>I am a 18 years old beginner programmer. 🧇 🐾 </i></div></blockquote>
   <br/>
   <details open>
     <summary><b>🌸 About Me</b></summary>
-   <blockquote> <i>I am a 17 years old technology enthusiast from Slovakia, I am interested in electronical devices, automatization, bots, games, art and       free & open-source software. I love to experiment with electronics and learn new stuff.</i></blockquote>
+   <blockquote> <i>I am a 18 years old technology enthusiast from Slovakia, I am interested in electronical devices, automatization, bots, games, art and       free & open-source software. I love to experiment with electronics and learn new stuff.</i></blockquote>
     <h5>I have my own Git server at <a href="https://git.waffelo.net">git.waffelo.net</a></h5>
   </details>
   
