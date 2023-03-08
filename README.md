@@ -2,7 +2,7 @@
 
 
 <div align='center'>
-  <h1> 🐾 > Waffelo < 🐾</h1>
+  <h1>Waffelo </h1>
   <a href="https://wakatime.com/@29725049-7048-4ebb-8064-21f95716ce5a"><img src="https://wakatime.com/badge/user/29725049-7048-4ebb-8064-21f95716ce5a.svg" alt="Total time coded since Mar 28 2022" /></a> <a href="https://liberapay.com/Waffelo/donate" target="blank"><img src="https://shields.io/badge/donate_with-liberapay-F6C915?logo=liberapay" alt="librepay"/></a>
     <br/>
 
