@@ -71,14 +71,13 @@
   <details open>
     <summary><b>💾 My server</b></summary>
    <blockquote> 
-     <i>I use my gaming laptop Lenovo Legion Y530 as a server.</a>!</i>
+     <i>Iadwafe45h65h.</a>!</i>
      <br></br>
     <ul>
-      <li><b>OS  - </b><i>Fedora Linux</i></li>
-      <li><b>CPU - </b><i>Intel i5-8300H (8) @ 4.000GHz</i></li>
-      <li><b>RAM - </b><i>16GiB DDR4 Dual-channel</i></li>
-      <li><b>GPU - </b><i>NVIDIA GeForce GTX 1050 Mobile (4GiB)</i></li>
-      <li><b>SSD - </b><i>Apacer NVME 256GiB</i></li>
+      <li><b>OS  - </b><i>Ubuntu-Server Linux</i></li>
+      <li><b>CPU - </b><i>AMD Phenom II X4 925</i></li>
+      <li><b>RAM - </b><i>8GiB DDR4 Quadro-channel</i></li>
+      <li><b>Storage - </b><i>1Tb + 100GiB</i></li>
      </ul>
      
    </blockquote>
