@@ -89,8 +89,8 @@
     <blockquote> <i>You can reach out to me trough these links:
       <ul>
         <li><a href="https://waffelo.net">Website</a></li>
-        <li><a href="https://matrix.to/#/!olFnGkZMAwnDpcxacl:matrix.org?via=matrix.org">Matrix Space</a></li>
-        <li><a href="https://stop.voring.me/@waffelo">Fediverse</a></li>
+        <li><a href="https://matrix.to/#/%23wf%3Adrgnz.club?via=drgnz.club">Matrix Space</a></li>
+        <li><a href="https://social.drgnz.club/waffelo">Fediverse</a></li>
       </ul>
       </i></blockquote>
   </details>
