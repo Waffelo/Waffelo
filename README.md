@@ -74,10 +74,10 @@
      <i>Iadwafe45h65h.</a>!</i>
      <br></br>
     <ul>
-      <li><b>OS  - </b><i>Ubuntu-Server Linux</i></li>
+      <li><b>OS  - </b><i>Gentoo GNU/Linux</i></li>
       <li><b>CPU - </b><i>AMD Phenom II X4 925</i></li>
       <li><b>RAM - </b><i>8GiB DDR4 Quadro-channel</i></li>
-      <li><b>Storage - </b><i>1Tb + 100GiB</i></li>
+      <li><b>Storage - </b><i>6Tb</i></li>
      </ul>
      
    </blockquote>
