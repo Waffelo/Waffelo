@@ -6,7 +6,7 @@
   <a href="https://wakatime.com/@29725049-7048-4ebb-8064-21f95716ce5a"><img src="https://wakatime.com/badge/user/29725049-7048-4ebb-8064-21f95716ce5a.svg" alt="Total time coded since Mar 28 2022" /></a> <a href="https://liberapay.com/Waffelo/donate" target="blank"><img src="https://shields.io/badge/donate_with-liberapay-F6C915?logo=liberapay" alt="librepay"/></a>
     <br/>
 
-   <blockquote><i>I am a 18 years old beginner programmer. 🧇 🐾 </i></div></blockquote>
+   <blockquote><i>I am a dragon programmer. 🧇 🐾 </i></div></blockquote>
   <br/>
   <details open>
     <summary><b>🌸 About Me</b></summary>
@@ -52,10 +52,29 @@
   
   </details>
   
+  
+  </details open>
+  <br><br>
+  
   <details open>
-    <summary><b>💻 My computer</b></summary>
+    <summary><b>🏠 Main computer</b></summary>
    <blockquote> 
-     <i>As my main system I use Lenovo ThinkPad x200 which is librebooted.</a>!</i>
+     <i>Iadwafe45h65h.</a>!</i>
+     <br></br>
+    <ul>
+      <li><b>OS  - </b><i>Gentoo Linux</i></li>
+      <li><b>CPU - </b><i>AMD Ryzen 5 2600 (12) @ 3.400GHz</i></li>
+      <li><b>RAM - </b><i>16GB DDR4 dual-channel</i></li>
+      <li><b>Storage - </b><i>2x NVME</i></li>
+     </ul>
+     
+   </blockquote>
+  </details open>    
+
+  <details open>
+    <summary><b>💻 Laptop</b></summary>
+   <blockquote> 
+     <i>For computing away from home I use Lenovo ThinkPad x200 which is librebooted.</a>!</i>
      <br></br>
     <ul>
       <li><b>OS  - </b><i>Parabola Linux</i></li>
@@ -66,23 +85,9 @@
      </ul>
      
    </blockquote>
-  </details open>
-    
-  <details open>
-    <summary><b>💾 My server</b></summary>
-   <blockquote> 
-     <i>Iadwafe45h65h.</a>!</i>
-     <br></br>
-    <ul>
-      <li><b>OS  - </b><i>Gentoo GNU/Linux</i></li>
-      <li><b>CPU - </b><i>AMD Phenom II X4 925</i></li>
-      <li><b>RAM - </b><i>8GiB DDR4 Quadro-channel</i></li>
-      <li><b>Storage - </b><i>6Tb</i></li>
-     </ul>
-     
-   </blockquote>
-  </details open>    
-    
+
+  <br><br>
+
     
   <details open>
     <summary><b>💭 Social</b></summary>
@@ -106,7 +111,7 @@
  <div align='center'>
    <b>Currently learning:</b><br/>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,python,cpp,rust" />
+    <img src="https://skillicons.dev/icons?i=arduino,python,cpp,c,rust" />
    </a>
   </div>
   
@@ -114,7 +119,7 @@
  <div align='center'>
   <b>Interested in:</b><br>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,js,bevy,docker,bsd,blender,godot,bots" />
+    <img src="https://skillicons.dev/icons?i=bevy,docker,bsd,godot,bots" />
    </a>
   </div>
   
