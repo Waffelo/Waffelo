@@ -10,7 +10,7 @@
   <br/>
   <details open>
     <summary><b>🌸 About Me</b></summary>
-   <blockquote> <i>I am a 18 years old technology enthusiast from Slovakia, I am interested in electronical devices, automatization, bots, games, art and       free & open-source software. I love to experiment with electronics and learn new stuff.</i></blockquote>
+   <blockquote> <i>I am a 19 years old technology enthusiast from Slovakia, I am interested in electronical devices, automatization, bots, games, art and       free & open-source software. I love to experiment with electronics and learn new stuff.</i></blockquote>
     <h5>I have my own Git server at <a href="https://git.drgnz.club">git.drgnz.club</a></h5>
   </details>
   
