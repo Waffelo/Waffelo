@@ -63,9 +63,9 @@
      <br></br>
     <ul>
       <li><b>OS  - </b><i>Gentoo Linux</i></li>
-      <li><b>CPU - </b><i>AMD Ryzen 5 2600 (12) @ 3.400GHz</i></li>
-      <li><b>RAM - </b><i>16GB DDR4 dual-channel</i></li>
-      <li><b>Storage - </b><i>2x NVME</i></li>
+      <li><b>CPU - </b><i>AMD Ryzen 7 5300 </i></li>
+      <li><b>RAM - </b><i>32GB DDR4 dual-channel</i></li>
+      <li><b>Storage - </b><i>2x NVME + HDD</i></li>
      </ul>
      
    </blockquote>
@@ -74,14 +74,14 @@
   <details open>
     <summary><b>💻 Laptop</b></summary>
    <blockquote> 
-     <i>For computing away from home I use Lenovo ThinkPad x200 which is librebooted.</a>!</i>
+     <i>For computing away from home I use Lenovo ThinkPad t430 which is librebooted.</a>!</i>
      <br></br>
     <ul>
-      <li><b>OS  - </b><i>Parabola Linux</i></li>
-      <li><b>CPU - </b><i>Intel Core 2 Duo P8600 (2) 2.401GHz</i></li>
-      <li><b>RAM - </b><i>4GiB DDR3 Dual-channel</i></li>
-      <li><b>GPU - </b><i>Intel Mobile 4 Series Chipset</i></li>
-      <li><b>HDD - </b><i>1TB + 1TB caddy in dock</i></li>
+      <li><b>OS  - </b><i>Gentoo Linux</i></li>
+      <li><b>CPU - </b><i>Intel i5-3210M (4) @ 3.100GHz</i></li>
+      <li><b>RAM - </b><i>16GiB DDR3 Dual-channel</i></li>
+      <li><b>GPU - </b><i> Intel 3rd Gen Core processor Graphics Controller</i></li>
+      <li><b>HDD - </b><i>Samsung SSD</i></li>
      </ul>
      
    </blockquote>
