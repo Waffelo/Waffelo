@@ -18,6 +18,9 @@
     <summary><b>📂 Projects</b></summary>
    <blockquote> <i>Nothing interesting here... yet.. I mostly delete all my projects.</i>
      <br></br>
+     <ul>
+       <li><a href="https://github.com/Waffelo/waffelo.net">waffelo.net</a> - My personal website and blog.</li>
+     </ul>
   
   </details>
   
