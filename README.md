@@ -22,6 +22,7 @@
      <br></br>
      <ul>
        <li><a href="https://github.com/Waffelo/waffelo.net">waffelo.net</a> - My personal website and blog.</li>
+       <li><a href="https://github.com/Waffelo/dotfiles">dotfiles</a> - My Gentoo linux configuration.</li>
      </ul>
   </details>
   
@@ -91,7 +92,7 @@
  <div align='center'>
   <b>Interested in:</b><br>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=zig,cpp,c.bot" />
+    <img src="https://skillicons.dev/icons?i=zig,cpp,c" />
    </a>
   </div>
   
