@@ -2,17 +2,16 @@
 
 
 <div align='center'>
-  <h1>Waffelo </h1>
-  <a href="https://wakatime.com/@29725049-7048-4ebb-8064-21f95716ce5a"><img src="https://wakatime.com/badge/user/29725049-7048-4ebb-8064-21f95716ce5a.svg" alt="Total time coded since Mar 28 2022" /></a> <a href="https://liberapay.com/Waffelo/donate" target="blank"><img src="https://shields.io/badge/donate_with-liberapay-F6C915?logo=liberapay" alt="librepay"/></a>
+  <h1>🐉 Waffelo 🐉</h1>
+  <a href="https://wakatime.com/@29725049-7048-4ebb-8064-21f95716ce5a"><img src="https://wakatime.com/badge/user/29725049-7048-4ebb-8064-21f95716ce5a.svg" alt="Total time coded since Mar 28 2022" /></a> 
     <br/>
-
    <blockquote><i>Dragon!</i></div></blockquote>
   <br/>
   <details open>
     <summary><b>🌸 About Me</b></summary>
    <blockquote><i>
-      I am a 20 years old Linux and 3D printing enthusiast from Slovakia. I am mainly interested in embedded computing and making fun projects. I am currently learning
-      programming.
+      I am a 21 years old Linux and 3D printing enthusiast from Slovakia. I am mainly interested in embedded computing and making fun projects. I am currently learning
+      programming. 
    </i></blockquote>
   </details>
   
